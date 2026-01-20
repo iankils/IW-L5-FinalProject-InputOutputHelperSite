@@ -17,6 +17,14 @@ All of these are just ideas. If they spark another idea with input and output th
 - Include at least 1 output. This is typically implemented with innerHTML, but you can "un-hide" certain divs as a way of displaying a result as well.
 - Style your page using styling techniques you've learned so far. Using Bulma, Flexbox, Grid, and other CSS properties are all great ways to make your page look beautiful. Use which ever you see fit.
 
+## Submission
+1. Push everything to GitHub
+2. Transfer all files to your IDE
+3. Submit the link to Jupiter
+
+## Rubric
+*TBD by the class*
+
 ## Extensions
 ### Mild
 
